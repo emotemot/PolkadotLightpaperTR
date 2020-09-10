@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1060" original="/master/general/Polkadot-Lightpaper.docx" source-language="en" target-language="tr" datatype="plaintext" project-id="400426" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.0"/>
+    </header>
+    <body>
+      <trans-unit id="78822" identifier="5ad6c6099c2bc7211eb8151483826e80">
+        <source>Polkadot Lightpaper&lt;x id=&quot;3&quot;/&gt;An Introduction to Polkadot</source>
+        <target state="translated">Polkadot Lightpaper&lt;x id=&quot;3&quot;/&gt;Polkadot'a Giriş</target>
+      </trans-unit>
+      <trans-unit id="78824" identifier="ac041291b4743d37b27064e2ef4964ca">
+        <source>An Introduction to Polkadot</source>
+        <target state="translated">Polkadot'a Giriş</target>
+      </trans-unit>
+      <trans-unit id="78826" identifier="d096cbbf5441f9b63ab4d506e3ac0d5c">
+        <source>“Polkadot empowers the individual against much more powerful corporate and state actors.”</source>
+        <target state="translated">&quot;Polkadot, bireyleri kurum ve devletler karşısında daha fazla güçlendirir.&quot;</target>
+      </trans-unit>
+      <trans-unit id="78828" identifier="364215adfafd1dfa2c2dd1ff38cf688c">
+        <source>-Dr. Gavin Wood,</source>
+        <target state="translated">-Dr. Gavin Wood,</target>
+      </trans-unit>
+      <trans-unit id="78830" identifier="8b93a130b9cfc258c70bf2d4c52443c5">
+        <source>Polkadot Founder</source>
+        <target state="translated">Polkadot Kurucusu</target>
+      </trans-unit>
+      <trans-unit id="78832" identifier="5b8f2f1aa1ab16d610c06d2d3edb270c">
+        <source>Table of Contents</source>
+        <target state="translated">İçindekiler</target>
+      </trans-unit>
+      <trans-unit id="78834" identifier="cc0fc2839e04f8c2fd309e404f382d4c">
+        <source>Introduction</source>
+        <target state="translated">Giriş</target>
+      </trans-unit>
+      <trans-unit id="78836" identifier="bed39cd2c90b2eb1fcdd0c92d937fe6b" translate="no">
+        <source>3</source>
+        <target>3</target>
+      </trans-unit>
+      <trans-unit id="78838" identifier="b34f62d337abef71555c48505693522b">
+        <source>Overview</source>
+        <target state="translated">Genel Bakış</target>
+      </trans-unit>
+      <trans-unit id="78840" identifier="1f1b4f0416107eb061f59d66e142833f" translate="no">
+        <source>4</source>
+        <target>4</target>
+      </trans-unit>
+      <trans-unit id="78842" identifier="52a2a128c9a6b9d46e4fe5d58df5df6d">
+        <source>Heterogeneous Sharding</source>
+        <target state="translated">Heterojen Sharding</target>
+      </trans-unit>
+      <trans-unit id="78844" identifier="7e45a725707a322a31fce22278f9631c" translate="no">
+        <source>5</source>
+        <target>5</target>
+      </trans-unit>
+      <trans-unit id="78846" identifier="e5e117aaa757a7ab70691e5c997e91db">
+        <source>Scalability</source>
+        <target state="translated">Ölçeklenebilirlik</target>
+      </trans-unit>
+      <trans-unit id="78848" identifier="7fc7126bd7140610dd1a3561283ae072" translate="no">
+        <source>6</source>
+        <target>6</target>
+      </trans-unit>
+      <trans-unit id="78850" identifier="63c125855880ef12877a3b396856062f">
+        <source>Upgradeability</source>
+        <target state="translated">Geliştirebilirlik</target>
+      </trans-unit>
+      <trans-unit id="78852" identifier="cf094103b0860eaca2373a72af0b7de9" translate="no">
+        <source>7</source>
+        <target>7</target>
+      </trans-unit>
+      <trans-unit id="78854" identifier="c975c674dc17cd15dd6c0a73ca1c1e85">
+        <source>Transparent Governance</source>
+        <target state="translated">Şeffaf Yönetişim</target>
+      </trans-unit>
+      <trans-unit id="78856" identifier="4c7e5c6d2192ac93caaf5ecb64bc323e" translate="no">
+        <source>8</source>
+        <target>8</target>
+      </trans-unit>
+      <trans-unit id="78858" identifier="9e581e9ff38f9ac3071bece720bef6fa">
+        <source>Cross-Chain Composability</source>
+        <target state="translated">Zincirler Arası Birleştirebilirlik</target>
+      </trans-unit>
+      <trans-unit id="78860" identifier="12369460b7fa50ec878b233702ae09d9" translate="no">
+        <source>8</source>
+        <target>8</target>
+      </trans-unit>
+      <trans-unit id="78862" identifier="c0e8268cb1413bc2fa1a4ab0b4189e9c">
+        <source>Polkadot Architecture</source>
+        <target state="translated">Polkadot Mimarisi</target>
+      </trans-unit>
+      <trans-unit id="78864" identifier="dd765246af98b16c7bd5e09c1e899fa9" translate="no">
+        <source>9</source>
+        <target>9</target>
+      </trans-unit>
+      <trans-unit id="78866" identifier="9d50c0cc8b3c40e9dd7d1e42f3c60540">
+        <source>Polkadot Consensus Roles</source>
+        <target state="translated">Polkadot Mutabakat Rolleri</target>
+      </trans-unit>
+      <trans-unit id="78868" identifier="ff6b6248c8d8a951690e1e17a0ead8e0" translate="no">
+        <source>10</source>
+        <target>10</target>
+      </trans-unit>
+      <trans-unit id="78870" identifier="0b40233a975d4d88f9ebcd095a81e9ee">
+        <source>Polkadot Governance Roles</source>
+        <target state="translated">Polkadot Yönetişim Rolleri</target>
+      </trans-unit>
+      <trans-unit id="78872" identifier="175787a9b748f11bded2e4dd943b923a" translate="no">
+        <source>10</source>
+        <target>10</target>
+      </trans-unit>
+      <trans-unit id="78874" identifier="d156334093107a51633d9f2876ea78a7">
+        <source>The DOT Token</source>
+        <target state="translated">DOT Token</target>
+      </trans-unit>
+      <trans-unit id="78876" identifier="00267beec4976ff76abd97deaae7413a" translate="no">
+        <source>11</source>
+        <target>11</target>
+      </trans-unit>
+      <trans-unit id="78878" identifier="15dc8889ff6a71ed407965d529f048ce">
+        <source>Kusama Network</source>
+        <target state="translated">Kusama Ağı</target>
+      </trans-unit>
+      <trans-unit id="78880" identifier="38869be448370bd069f0e23322622e9e" translate="no">
+        <source>12</source>
+        <target>12</target>
+      </trans-unit>
+      <trans-unit id="78882" identifier="a47e1e32806f95edd9b211e3c6987790">
+        <source>Substrate</source>
+        <target state="translated">Substrate</target>
+      </trans-unit>
+      <trans-unit id="78884" identifier="380badb57de70091cf7b72ee53d7a7d1" translate="no">
+        <source>13</source>
+        <target>13</target>
+      </trans-unit>
+      <trans-unit id="78886" identifier="33b2951c714d9a4d94332a33f7094f74">
+        <source>About Web3 Foundation</source>
+        <target state="translated">Web3 Foundation Hakkında</target>
+      </trans-unit>
+      <trans-unit id="78888" identifier="e2da1918abd7b9d91c6cdca42fb5bfd1" translate="no">
+        <source>14</source>
+        <target>14</target>
+      </trans-unit>
+      <trans-unit id="78890" identifier="3fcdbde150fc5a657c6bf2814a792353">
+        <source>About Parity</source>
+        <target state="translated">Parity Hakkında</target>
+      </trans-unit>
+      <trans-unit id="78892" identifier="b970f4b6be5043ec9ec1e4a17325847c" translate="no">
+        <source>15</source>
+        <target>15</target>
+      </trans-unit>
+      <trans-unit id="78894" identifier="b038be4a39c78513d90e9b3e4cb51406">
+        <source>Friends of Polkadot</source>
+        <target state="translated">Polkadot'un İş Birlikleri</target>
+      </trans-unit>
+      <trans-unit id="78896" identifier="bb4a89340dd511f7a778dae460b84b26" translate="no">
+        <source>16</source>
+        <target>16</target>
+      </trans-unit>
+      <trans-unit id="78898" identifier="7b722b5bebb93515620acff108dc59d8">
+        <source>Contact</source>
+        <target state="translated">İletişim</target>
+      </trans-unit>
+      <trans-unit id="78900" identifier="f5e362747de178c9fc408cdcab6757d6" translate="no">
+        <source>17</source>
+        <target>17</target>
+      </trans-unit>
+      <trans-unit id="78902" identifier="0f97907c83d1e352164d236cff378caa">
+        <source>Introduction</source>
+        <target state="translated">Giriş</target>
+      </trans-unit>
+      <trans-unit id="78904" identifier="928a70db6fbab885ec233964230e5358" translate="no">
+        <source>3</source>
+        <target>3</target>
+      </trans-unit>
+      <trans-unit id="78906" identifier="f856d385749391e57755c900754ddf10">
+        <source>LESS TRUST</source>
+        <target state="translated">DAHA AZ GÜVEN</target>
+      </trans-unit>
+      <trans-unit id="78908" identifier="30a5830260dc470ea86b772435574c8f">
+        <source>MORE TRUTH</source>
+        <target state="translated">DAHA FAZLA DÜRÜSTLÜK</target>
+      </trans-unit>
+      <trans-unit id="78910" identifier="02390a6f55dc1feede70224758f757e9">
+        <source>Every day we interact with technologies controlled by a handful of large companies whose interests and incentives often conflict with our own.</source>
+        <target state="translated">Her gün, çıkarları ve teşvikleri genellikle bizimkilerle çatışan ve bir avuç büyük şirket tarafından kontrol edilen teknolojilerle etkileşime giriyoruz.</target>
+      </trans-unit>
+      <trans-unit id="78912" identifier="96e7ea653ef03529b825acbd68434b58">
+        <source>If we want the benefits of using their proprietary apps, we’re forced to agree to terms that most of us will never read, granting these companies complete control over the data we generate through each interaction with their tools.</source>
+        <target state="translated">Onların uygulamalarını kullanmak ve avantajlarından yararlanmak için çoğumuz asla okumadığı şartları kabul etmek zorunda kalıyor. Böylece, bu şirketlerler her etkileşime geçtiğimizde veri üretiyor ve bu verilerin tam kontrol hakkını onlara veriyoruz.</target>
+      </trans-unit>
+      <trans-unit id="78914" identifier="f79919627314c4d9a36103f101a0ce22">
+        <source>Because that data can often paint a detailed picture of our personal lives, it’s become a resource more valuable than oil.</source>
+        <target state="translated">Veriler, kişisel yaşantımızın detaylı bir resmini çizdikleri için petrolden daha değerli bir değer haline gelmiştir.</target>
+      </trans-unit>
+      <trans-unit id="78916" identifier="47f32ff4edb56ee74c86b3f7dae344b7">
+        <source>And we’re giving it up for free—with no choice but to trust that it won’t be lost, stolen or misused.</source>
+        <target state="translated">Artık verilerimizi ücretsiz vermeye dur diyoruz. Çünkü verilerimizin kaybolmayacağına, çalınmayacağına veya kötüye kullanılmayacağına güvenmekten başka çaremiz yok.</target>
+      </trans-unit>
+      <trans-unit id="78918" identifier="d6c9a2d26d49370dfa796dcf99b14ac7">
+        <source>At the same time, progress in open-source and decentralized technologies like blockchain has shown that we can build systems that prioritize individual sovereignty over centralized control.</source>
+        <target state="translated">Aynı zamanda blokzincir gibi açık kaynaklı ve merkezi olmayan teknolojilerdeki ilerleme, bireysel egemenliği önceliklendiren ve merkezi kontrol yerine kullanmamızı sağlayan sistemler oluşturabileceğimizi göstermiştir.</target>
+      </trans-unit>
+      <trans-unit id="78920" identifier="e5f5776d3e826a632dfc3ff94ccf3653">
+        <source>With these new systems, there’s no need to trust any third parties not to be evil.</source>
+        <target state="translated">Bu yeni sistemlerle birlikte, dürüst olmayan üçüncü şahıslara güvenmeye gerek kalmayacak.</target>
+      </trans-unit>
+      <trans-unit id="78922" identifier="d4987f148ad90cba88de443e26501819">
+        <source>But blockchain technology, in its current form, isn’t ready to break the corporate stranglehold on the web just yet.</source>
+        <target state="translated">Ancak blokzincir teknolojisi bugünkü haliyle, web'deki kurumsal baskıyı kırmaya henüz hazır değil.</target>
+      </trans-unit>
+      <trans-unit id="78924" identifier="36d4325d374b64e76427ccdbf2df8b16">
+        <source>Despite the promise and the progress made, we have yet to see significant real-world deployment of the technology.</source>
+        <target state="translated">Verilen vaatlere ve ilerlemeye rağmen, teknolojinin gerçek dünyada önemli bir şekilde kullanım alanını henüz göremedik.</target>
+      </trans-unit>
+      <trans-unit id="78926" identifier="1bdb3a9a9dfc50c6bed5ed514f918fef">
+        <source>Overview</source>
+        <target state="translated">Genel Bakış</target>
+      </trans-unit>
+      <trans-unit id="78928" identifier="8e5d072eda91d639b5e79523b16672cc" translate="no">
+        <source>4</source>
+        <target>4</target>
+      </trans-unit>
+      <trans-unit id="78930" identifier="35b1745d909debfbc8ecd65301ee864d">
+        <source>Polkadot is a next-generation blockchain protocol that unites an entire network of purpose-built blockchains, allowing them to operate seamlessly together at scale.</source>
+        <target state="translated">Polkadot, amaca yönelik oluşturulmuş blokzincirlerden oluşan bir ağın tamamını bir araya getiren, birlikte sorunsuz ve ölçeklenebilir bir şekilde çalışmalarını sağlayan yeni nesil bir blokzincir protokolüdür.</target>
+      </trans-unit>
+      <trans-unit id="78932" identifier="e88864505efea8a77320f27aa0322341">
+        <source>Because Polkadot allows any type of data to be sent between any type of blockchain, it unlocks a wide range of real-world use cases.</source>
+        <target state="translated">Polkadot, her türden verinin her türden blokzincir arasında iletişimini mümkün kıldığı için, çeşitli kullanım senaryolarını gerçekleştirmek için fırsat sunar.</target>
+      </trans-unit>
+      <trans-unit id="78934" identifier="8be9ccd23186741e9cb664e7a386e168">
+        <source>By bringing together the best features from multiple specialized blockchains, Polkadot paves the way for new decentralized marketplaces to emerge, offering fairer ways to access services through a variety of apps and providers.</source>
+        <target state="translated">Polkadot, birden fazla özel blokzincirin en iyi özelliklerini bir araya getirerek, yeni merkezi olmayan pazarların ortaya çıkmasının önünü açar ve çeşitli uygulamalar ve sağlayıcılar aracılığıyla hizmetlerin erişimini daha adil bir şekilde sunar.</target>
+      </trans-unit>
+      <trans-unit id="78936" identifier="622f5dc8b1038476eb873e3163dd9440">
+        <source>While blockchains have demonstrated great promise in several fields—Internet of Things (IoT), finance, governance, identity management, web decentralization, and asset-tracking to name a few—design limitations in previous systems have largely hindered large-scale adoption.</source>
+        <target state="translated">Blokzincirleri, nesnelerin interneti (IoT), finans, yönetişim, kimlik yönetimi, merkeziyetsiz web ve dijital varlık izleme gibi çeşitli alanlarda büyük umut vaat ederken, önceki sistemlerde kitlesel benimsemeyi engelleyen tasarım sınırlamalarını büyük ölçüde aştı.</target>
+      </trans-unit>
+      <trans-unit id="78938" identifier="67e23d018e5ddd5fcec95863ce89d6b2">
+        <source>&lt;g id=&quot;1&quot;&gt;Polkadot’s design offers several distinct advantages over existing and legacy networks, including &lt;g id=&quot;2&quot;&gt;heterogeneous sharding, scalability,&lt;/g&gt; &lt;g id=&quot;3&quot;&gt;upgradeability, transparent governance and cross-chain composability.&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Polkadot’un tasarımı, mevcut ve daha eski blokzincir ağlarına göre farklı avantajlar sunar: &lt;g id=&quot;2&quot;&gt;heterojen sharding, ölçeklenebilirlik,&lt;/g&gt; &lt;g id=&quot;3&quot;&gt;geliştirilebilirlik, şeffaf yönetişim ve zincirler arası bitleştirebilirlik.&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="78940" identifier="08d817e04c6395aae411f4eab550d980">
+        <source>THIS IS</source>
+        <target state="translated">SINIRSIZ</target>
+      </trans-unit>
+      <trans-unit id="78942" identifier="6d803603354346b9b532fd10ce5356c8">
+        <source>BLOCKCHAIN UNBOUNDED</source>
+        <target state="translated">BLOKZİNCİR</target>
+      </trans-unit>
+      <trans-unit id="78944" identifier="2204acff04731bff11982723c718f19d">
+        <source>Heterogeneous Sharding</source>
+        <target state="translated">Heterojen Sharding</target>
+      </trans-unit>
+      <trans-unit id="78946" identifier="fc3f6a10df9f4976a8cad008d587e2b5" translate="no">
+        <source>5</source>
+        <target>5</target>
+      </trans-unit>
+      <trans-unit id="78948" identifier="1fbf94be1b3f6cd5a2aba2ebd7fe6e5e">
+        <source>Many chains,</source>
+        <target state="translated">Birçok zincir,</target>
+      </trans-unit>
+      <trans-unit id="78950" identifier="43196c18a90b9b2aa1313e0dddf34aa3">
+        <source>one network</source>
+        <target state="translated">tek ağ</target>
+      </trans-unit>
+      <trans-unit id="78952" identifier="021b81bf38a91ca92db0bc7532b2ee1b">
+        <source>Will there eventually be one blockchain to rule them all?</source>
+        <target state="translated">Sonunda tüm zincirlere hükmedecek bir blokzincir olacak mı?</target>
+      </trans-unit>
+      <trans-unit id="78954" identifier="28ff26d368be7477eec3b98a4a20956e">
+        <source>We don’t think so.</source>
+        <target state="translated">Hayır, böyle bir şeyin gerçekleşeceğini düşünmüyoruz.</target>
+      </trans-unit>
+      <trans-unit id="78956" identifier="db6ad1335dd4de836ac409b4ecc59c72">
+        <source>All blockchains make different tradeoffs to support specific features and use cases, and as chain specialization increases, the need to transact between them will only increase over time.</source>
+        <target state="translated">Blokzincirler, destekledikleri kullanım senaryolarına göre güvenlik, hız ve sürdürülebilirlik gibi bazı özellikler arasında tercih yapmak durumunda kalırlar. Zincir uzmanlığı arttıkça, bu zincirler arasında işlem yapma ihtiyacı zamanla artış gösterecektir.</target>
+      </trans-unit>
+      <trans-unit id="78958" identifier="3d186decce4bc076df0b89de9ab9f106">
+        <source>Polkadot is a sharded blockchain, meaning it connects several chains together in a single network, allowing them to process transactions in parallel and exchange data between chains with security guarantees.</source>
+        <target state="translated">Polkadot, parçalanmış bir blokzincirdir, yani birkaç zinciri tek bir ağda birbirine bağlayarak, işlemleri paralel olarak işlemelerine ve güvenlik garantili zincirler arasında veri alışverişinde bulunmalarına olanak tanır.</target>
+      </trans-unit>
+      <trans-unit id="78960" identifier="fd27b4847aa31320bf62a9b2c57fe040">
+        <source>Thanks to Polkadot’s unique heterogeneous sharding model, each chain in the network can be optimized for a specific use case rather than being forced to adapt to a one-size-fits-all model.</source>
+        <target state="translated">Polkadot’un benzersiz heterojen sharding modeli sayesinde, ağdaki her bir zincir, herkese uyan tek bir modele uyarlanmak yerine belirli bir kullanım senaryosu için optimize edilebilir.</target>
+      </trans-unit>
+      <trans-unit id="78962" identifier="78f14c1534ed4727e69ec4d6a0af2472">
+        <source>More chains and more specialization means more possibilities for innovation.</source>
+        <target state="translated">Daha fazla zincir ve uzmanlık alanı, daha fazla yenilik fırsatı anlamına gelir.</target>
+      </trans-unit>
+      <trans-unit id="78964" identifier="7b4900a7d28382faf749025161fe5008">
+        <source>Scalability</source>
+        <target state="translated">Ölçeklenebilirlik</target>
+      </trans-unit>
+      <trans-unit id="78966" identifier="1148e5fdd9c0402a761d050806c7b744" translate="no">
+        <source>6</source>
+        <target>6</target>
+      </trans-unit>
+      <trans-unit id="78968" identifier="7667b2a0c4b310177ac444c77eed3d1a">
+        <source>Blockchains</source>
+        <target state="translated">Büyüyen</target>
+      </trans-unit>
+      <trans-unit id="78970" identifier="72106787730dab2cc74f310bf71adb00">
+        <source>that grow</source>
+        <target state="translated">blokzincirler</target>
+      </trans-unit>
+      <trans-unit id="78972" identifier="5ee5cb24379e322f688a433731da85f6">
+        <source>One blockchain isn’t enough to support a bustling future of decentralized applications.</source>
+        <target state="translated">Merkezi olmayan dağıtık uygulamaların geleceğini desteklemek için tek bir blokzincir yeterli değildir.</target>
+      </trans-unit>
+      <trans-unit id="78974" identifier="55311efed4b61bff5f375766e8e6858b">
+        <source>The limited throughput and lack of runtime specialization in early blockchains made them impractical for scaling in many real-world use cases.</source>
+        <target state="translated">İlk blokzincirlerindeki sınırlı kapasite ve runtime konularındaki uzmanlık eksikliği, birçok gerçek dünya kullanım senaryosunun ölçeklenebilir hale gelememesine sebep oldu.</target>
+      </trans-unit>
+      <trans-unit id="78976" identifier="1ec3fec5b72a586732c7f0bfe5d4ec60">
+        <source>By bridging multiple specialized chains together into one sharded network, Polkadot allows for multiple transactions to be</source>
+        <target state="translated">Polkadot, birden fazla özel amaçlarla oluşturulmuş zincirleri tek bir parçalanmış ağda birleştirerek birden fazla işlemin</target>
+      </trans-unit>
+      <trans-unit id="78978" identifier="61fadbf1b23bc201de1077892b294136">
+        <source>processed in parallel.</source>
+        <target state="translated">paralel olarak işlenmesini sağlıyor.</target>
+      </trans-unit>
+      <trans-unit id="78980" identifier="79b68b015a4c28308f7e307dfb4f0973">
+        <source>This system removes the bottlenecks that occurred on earlier networks that processed transactions one-by-one.</source>
+        <target state="translated">Bu sistem, önceki ağlarda işlemlerin tek tek işlemesi sebebiyle meydana gelen darboğazları ortadan kaldırır.</target>
+      </trans-unit>
+      <trans-unit id="78982" identifier="6a23acfdf954aa1477172eba511bd31a">
+        <source>&lt;g id=&quot;1&quot;&gt;Polkadot will be able to scale even further in the future with a planned feature known as &lt;g id=&quot;2&quot;&gt;nested relay chains&lt;/g&gt;, which will increase the&lt;g id=&quot;3&quot;&gt; &lt;/g&gt;number of shards that can be added to the network.&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Polkadot, &lt;g id=&quot;2&quot;&gt;nested (iç içe) relay chains&lt;/g&gt; adıyla bilinen planlı özelliği sayesinde gelecekte daha da ölçeklenebilir durumda olacak. Nested relay chains, &lt;g id=&quot;3&quot;&gt; &lt;/g&gt;ağa eklenebilecek parça sayısı artıracak.&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="78984" identifier="2e25a5342f0610a91fa5a4c44a7b0e10">
+        <source>Upgradeability</source>
+        <target state="translated">Geliştirilebilirlik</target>
+      </trans-unit>
+      <trans-unit id="78986" identifier="c6f79efc77b3c7889d3c72641c162851" translate="no">
+        <source>7</source>
+        <target>7</target>
+      </trans-unit>
+      <trans-unit id="78988" identifier="23a8f52e82d53212d7fbf3732846388d">
+        <source>Future-proof your blockchain with forkless upgrades</source>
+        <target state="translated">Zahmetsiz çatallama ile blokzinciriniz geleceğe daima hazır</target>
+      </trans-unit>
+      <trans-unit id="78990" identifier="7ea8631fa75b820092e54e871c513f10">
+        <source>Early computer games were shipped on printed circuit boards known as cartridges.</source>
+        <target state="translated">İlk bilgisayar oyunları, kartuş olarak bilinen baskılı devre kartlarında satılıyordu.</target>
+      </trans-unit>
+      <trans-unit id="78992" identifier="145f8978d050b4263360f50b857348ad">
+        <source>These cartridges were expensive and time-consuming to make as the code was etched onto the chips, leaving no room for error.</source>
+        <target state="translated">Bu kartuşlar içerisindeki oyunun kodu çiplere tek seferde kazındığından, herhangi bir hata kabul etmeyen bu süreç, zaman istiyordu ve oldukça pahalıydı.</target>
+      </trans-unit>
+      <trans-unit id="78994" identifier="b1d58868cd237d0daeb6d8035200cc0d">
+        <source>These days we’re used to our apps, games and browsers updating frequently, even automatically.</source>
+        <target state="translated">Bugünlerde uygulamalarımızın, oyunlarımızın ve tarayıcılarımızın sık sık, hatta otomatik olarak güncellenmesine alışkınız.</target>
+      </trans-unit>
+      <trans-unit id="78996" identifier="4d040a97541ca7f536b8a1ebae4e1bff">
+        <source>Developers fix bugs before they can cause problems, and new features are added as better solutions become available.</source>
+        <target state="translated">Geliştiriciler, sorun yaratmadan önce hataları düzeltiyor ve daha iyi çözümler ortaya çıktıkça yeni özellikler ekleyebiliyorlar.</target>
+      </trans-unit>
+      <trans-unit id="78998" identifier="dcc0533a0de069ae1174f51a55c72e9c">
+        <source>Like all software, blockchains need upgrades in order to stay relevant.</source>
+        <target state="translated">Tüm yazılımlar gibi, blokzincirlerin de sürdürülebilir olması için güncellemelere ihtiyacı vardır.</target>
+      </trans-unit>
+      <trans-unit id="79000" identifier="66fd7c0c5780ce28f29548d5f65456b7">
+        <source>However, it’s far more difficult to upgrade a blockchain than an app, game, or browser.</source>
+        <target state="translated">Ancak bir blokzinciri güncellemek bir uygulama, oyun veya tarayıcıdan çok daha zordur.</target>
+      </trans-unit>
+      <trans-unit id="79002" identifier="0fb73cbaae060a4bb4cef655d0fb216a">
+        <source>Upgrading conventional blockchains requires forking the</source>
+        <target state="translated">Geleneksel blokzincirleri güncellemek,</target>
+      </trans-unit>
+      <trans-unit id="79004" identifier="39ba3ae06722240b61a030121a8f3e13">
+        <source>network, often taking months of work, and particularly contentious hard forks can break apart a community.</source>
+        <target state="translated">genellikle ağ üzerinde aylar süren çalışma gerektirir. Özelliklerde mutabık kalınmaması durumunda yeni çatallanmalar (hardfork) ortaya çıkabilir ve bir topluluğu parçalayabilir.</target>
+      </trans-unit>
+      <trans-unit id="79006" identifier="fc3ef0d9f9761e9fdbc28991a099cddb">
+        <source>Polkadot revolutionizes this process, enabling blockchains to upgrade themselves without the need to fork the chain.</source>
+        <target state="translated">Polkadot, bu süreçte devrim yaratarak blokzincirlerin, zinciri çatallamaya gerek kalmadan kendilerini güncellemelerine olanak tanır.</target>
+      </trans-unit>
+      <trans-unit id="79008" identifier="876b13f545097a9032816d6f70584fd5">
+        <source>These forkless upgrades are enacted through Polkadot’s transparent on-chain governance system.</source>
+        <target state="translated">Bu çatallanma gerektirmeyen güncellemeler, Polkadot’un şeffaf ve zincir üstü yönetişim sistemi aracılığıyla hayata geçirilir.</target>
+      </trans-unit>
+      <trans-unit id="79010" identifier="c070cfe7b533b64015649bbded180788">
+        <source>With this feature, Polkadot enables projects to stay agile, adapting and evolving with the pace of technology.</source>
+        <target state="translated">Polkadot bu özelliği ile projelerin çevik kalmasını, teknolojinin hızına uyum sağlamasını ve gelişmesini sağlar.</target>
+      </trans-unit>
+      <trans-unit id="79012" identifier="0092fab50c7a195bdb69cf6f6b339ac6">
+        <source>It also significantly reduces the risk associated with contentious hard forks—a severe barrier to entry for many organizations.</source>
+        <target state="translated">Ayrıca, pek çok kuruluş için ciddi bir engel olan çatallanmayla ilişkili riskleri önemli ölçüde azaltır.</target>
+      </trans-unit>
+      <trans-unit id="79014" identifier="fbad87dbb310e43783b9928950763bce">
+        <source>Transparent Governance</source>
+        <target state="translated">Şeffaf Yönetişim</target>
+      </trans-unit>
+      <trans-unit id="79016" identifier="e4610cf1d86623d98ee98df6fefd9e5e" translate="no">
+        <source>8</source>
+        <target>8</target>
+      </trans-unit>
+      <trans-unit id="79018" identifier="33cae227474fad8007e40a828b1f2379">
+        <source>Community</source>
+        <target state="translated">Gücünü</target>
+      </trans-unit>
+      <trans-unit id="79020" identifier="04b29ce90a18eab0b32c6479d7506a46">
+        <source>powered</source>
+        <target state="translated">topluluktan alır</target>
+      </trans-unit>
+      <trans-unit id="79022" identifier="df1e05afd7e7da7b38bbc5adf81f2f52">
+        <source>Early blockchains had no formal governance procedures.</source>
+        <target state="translated">İlk blokzincirlerin resmi yönetişim prosedürleri yoktu.</target>
+      </trans-unit>
+      <trans-unit id="79024" identifier="8aa1e5795237ce73354e090231defbd5">
+        <source>Individual stakeholders were powerless to propose or veto protocol changes unless they knew the right people.</source>
+        <target state="translated">Bireysel paydaşlar, doğru kişileri tanımadıkları sürece protokol değişikliklerini önerme veya veto etme konusunda güçsüz sayılırdı.</target>
+      </trans-unit>
+      <trans-unit id="79026" identifier="61cabefc556fdd33a99414272c2a3bfe">
+        <source>Polkadot is different.</source>
+        <target state="translated">Ancak Polkadot farklı.</target>
+      </trans-unit>
+      <trans-unit id="79028" identifier="859a10e82367562dfb3530fde6250651">
+        <source>It’s governed by anyone who owns DOTs, Polkadot’s native currency, in a fair and transparent way.</source>
+        <target state="translated">Polkadot, kendi para birimi olan DOT’lara sahip olan herkes tarafından adil ve şeffaf bir şekilde yönetilir.</target>
+      </trans-unit>
+      <trans-unit id="79030" identifier="90312436c8f1d1821d8ce2f59346710f">
+        <source>All DOT holders are able to propose a change to the protocol or vote on existing proposals.</source>
+        <target state="translated">Tüm DOT sahipleri, protokol için değişiklik önerebilir veya mevcut önerileri oylayabilir.</target>
+      </trans-unit>
+      <trans-unit id="79032" identifier="0f7164414db25f2935c6a9afcdfbee10">
+        <source>They can also help elect council members who represent passive stakeholders within Polkadot’s governance system.</source>
+        <target state="translated">Ayrıca, Polkadot’un yönetişim sistemi içindeki pasif paydaşları temsil eden konsey üyelerinin de seçilmesine yardımcı olabilirler.</target>
+      </trans-unit>
+      <trans-unit id="79034" identifier="dc19dfdd5a4881b16da2463a2c795bdc">
+        <source>Cross-Chain Composability</source>
+        <target state="translated">Zincirler Arası Birleştirebilirlik</target>
+      </trans-unit>
+      <trans-unit id="79036" identifier="28f6321401aa4fd586ccce0763b2ba90">
+        <source>Collaborative</source>
+        <target state="translated">İşbirlikçi</target>
+      </trans-unit>
+      <trans-unit id="79038" identifier="54f43e040ef131ecf02b0d6b29cb389e">
+        <source>by design</source>
+        <target state="translated">tasarım</target>
+      </trans-unit>
+      <trans-unit id="79040" identifier="550c3a463034664207938c66a6002d64">
+        <source>Early blockchains were like walled gardens closed off to other networks.</source>
+        <target state="translated">İlk blokzincirler, diğer ağlara arasında duvarları olan bahçeler gibiydi.</target>
+      </trans-unit>
+      <trans-unit id="79042" identifier="b9e66358e60f5fecfce31a963f55ec9e">
+        <source>But as the number of chains for specific use cases continues to rise, so does the need for cross-chain communication and interoperability.</source>
+        <target state="translated">Ancak belirli kullanım senaryoları için zincir sayısı artmaya devam ettikçe, zincirler arası iletişim ve birlikte çalışabilirlik ihtiyacı da artmayı sürdürdü.</target>
+      </trans-unit>
+      <trans-unit id="79044" identifier="879688a035482795e41c16a5a2c318f2">
+        <source>Polkadot’s cross-chain composability and message passing allows shards to communicate, exchange value, and share functionality, opening the door to a new wave of innovation.</source>
+        <target state="translated">Polkadot’un zincirler arası birleştirilebilirliği, parçaların iletişim kurmasına, mesaj iletimine, değer alışverişinde bulunmasına ve işlevselliği paylaşmasına olanak tanıyarak, yeni bir inovasyon fırsatı hareketini başlattı.</target>
+      </trans-unit>
+      <trans-unit id="79046" identifier="9b99f9e8705eb1aa1ff5f433d7697301">
+        <source>Thanks to Polkadot’s ability to bridge blockchains, Polkadot shards will also be able to interact with popular decentralized-finance protocols and cryptoassets on external networks like Ethereum.</source>
+        <target state="translated">Polkadot’un blokzincirlerini köprüleme yeteneği sayesinde, Polkadot parçaları, Ethereum gibi harici ağlardaki popüler merkezi olmayan finans protokolleri ve kripto varlıklar ile de etkileşime girebilecek.</target>
+      </trans-unit>
+      <trans-unit id="79048" identifier="7109b01f5bf1eabf4125abdd6980ef42">
+        <source>Polkadot Architecture</source>
+        <target state="translated">Polkadot Mimarisi</target>
+      </trans-unit>
+      <trans-unit id="79050" identifier="eca87ff72db2ab98cb0944884c18a801" translate="no">
+        <source>9</source>
+        <target>9</target>
+      </trans-unit>
+      <trans-unit id="79052" identifier="43ac4548f41c1fd4ed24ee0f8c7f5fe2">
+        <source>Connecting</source>
+        <target state="translated">Noktaları</target>
+      </trans-unit>
+      <trans-unit id="79054" identifier="380fb34b8dca4eb360e838e81b8c920d">
+        <source>the dots</source>
+        <target state="translated">birleştirin</target>
+      </trans-unit>
+      <trans-unit id="79056" identifier="7ba62a3100c79b9151cde76269ce03ba">
+        <source>Polkadot unites a network of</source>
+        <target state="translated">Polkadot, parachain adı verilen</target>
+      </trans-unit>
+      <trans-unit id="79058" identifier="c74f79cb35540883a91275b10cdc5707">
+        <source>heterogeneous blockchain shards</source>
+        <target state="translated">heterojen blokzincir parçalarını</target>
+      </trans-unit>
+      <trans-unit id="79060" identifier="c2c599976d030edba937e995e226a7ce">
+        <source>called parachains.</source>
+        <target state="translated">birleştirir.</target>
+      </trans-unit>
+      <trans-unit id="79062" identifier="0aa043b65826be700dcb8d7e8bffb5f2">
+        <source>These chains</source>
+        <target state="translated">Bu zincirler</target>
+      </trans-unit>
+      <trans-unit id="79064" identifier="5f96f071e541cc7de3c8b8be29527022">
+        <source>connect to and are secured by</source>
+        <target state="translated">birbirlerine Polkadot Relay Chain</target>
+      </trans-unit>
+      <trans-unit id="79066" identifier="02abbcf401dbcb00e3cec78b95d8fe87">
+        <source>the Polkadot Relay Chain.</source>
+        <target state="translated">üzerinden güvenli bir şekilde bağlanırlar.</target>
+      </trans-unit>
+      <trans-unit id="79068" identifier="d346997d7a4b0442dc1013d071d40c1e">
+        <source>They</source>
+        <target state="translated">Ek olarak,</target>
+      </trans-unit>
+      <trans-unit id="79070" identifier="24d6c99c3a38c808faaf18e382540bf3">
+        <source>can also connect with external</source>
+        <target state="translated">harici blokzincir protokolleriyle de</target>
+      </trans-unit>
+      <trans-unit id="79072" identifier="bed75d707f3bcc5c4a3b4cf50266d66b">
+        <source>networks via bridges.</source>
+        <target state="translated">köprüleme özelliğiyle bağlantı kurabilirler.</target>
+      </trans-unit>
+      <trans-unit id="79074" identifier="5f0a5c2ddd11ec1ee438af7f005b24af">
+        <source>Relay Chain</source>
+        <target state="translated">Relay Chain</target>
+      </trans-unit>
+      <trans-unit id="79076" identifier="87ed6122bda36c0fe6a1c1fcbff2910e">
+        <source>The heart of Polkadot, responsible for the network’s security, consensus and cross-chain interoperability.</source>
+        <target state="translated">Polkadot'un kalbi olarak adlandırabileceğimiz Relay Chain, ağın güvenliğinden, mutabakatından ve zincirler arası birlikte çalışabilirliğinden sorumludur.</target>
+      </trans-unit>
+      <trans-unit id="79078" identifier="317a8ffb08870a8b3019538492cf7503">
+        <source>Parachains</source>
+        <target state="translated">Parachainler</target>
+      </trans-unit>
+      <trans-unit id="79080" identifier="989c1d4a873f0a420803c6e62ec03076">
+        <source>Sovereign blockchains that can have their own tokens and optimize their functionality for specific use cases.</source>
+        <target state="translated">Kendi tokenlerine sahip olabilen ve belirli kullanım senaryoları için işlevselliğini optimize edebilen bağımsız blokzincirler.</target>
+      </trans-unit>
+      <trans-unit id="79082" identifier="b5956d60ea75cae32cbbbee488b30819">
+        <source>To connect to the Relay Chain, parachains can pay as they go or lease a slot for continuous connectivity.</source>
+        <target state="translated">Parachain'ler, Relay Chain'e iki şekilde bağlanabilir. Bunlardan biri kullandıkça öde yöntemidir. Diğeri ise sürekli bağlantı için bir slot kiralama yöntemidir.</target>
+      </trans-unit>
+      <trans-unit id="79084" identifier="adc1f45754f232c857d9b51eec45a8a1">
+        <source>Bridges</source>
+        <target state="translated">Köprüler</target>
+      </trans-unit>
+      <trans-unit id="79086" identifier="37ea4a681ff5805867eb745861a9f877">
+        <source>Special blockchains that allow Polkadot shards to connect to and communicate with external networks like Ethereum and Bitcoin.</source>
+        <target state="translated">Polkadot parçalarının Ethereum ve Bitcoin gibi harici ağlara bağlanmasına ve iletişim kurmasına izin veren özel blokzincirlerdir.</target>
+      </trans-unit>
+      <trans-unit id="79088" identifier="d2e1896be9e1604f120350cc3b3602d8">
+        <source>Polkadot Consensus Roles</source>
+        <target state="translated">Polkadot Mutabakat Rolleri</target>
+      </trans-unit>
+      <trans-unit id="79090" identifier="9185ca6e4a11532b913150be99aaeb9e" translate="no">
+        <source>10</source>
+        <target>10</target>
+      </trans-unit>
+      <trans-unit id="79092" identifier="24a4689e5ff5bd13b38694d053753c17">
+        <source>Validators</source>
+        <target state="translated">Validatörler</target>
+      </trans-unit>
+      <trans-unit id="79094" identifier="3648a4671736b99de6d9fcb8dad8c1e4">
+        <source>Secure the Relay Chain by staking DOTs, validating proofs from collators and participating in consensus with other validators.</source>
+        <target state="translated">DOT'ları stake ederek, düzenleyicilerden gelen kanıtları doğrular ve diğer validatörlerle mutabakata katılarak Relay Chain'i güvence altına alırlar.</target>
+      </trans-unit>
+      <trans-unit id="79096" identifier="1128b24483450629cb3212991864b1f3">
+        <source>Collators</source>
+        <target state="translated">Düzenleyiciler</target>
+      </trans-unit>
+      <trans-unit id="79098" identifier="ce6f59112f9fc88b8129b5cb19080e98">
+        <source>Maintain shards by collecting shard transactions from users and producing proofs for validators.</source>
+        <target state="translated">Kullanıcılardan gelen parça işlemleri toplayarak ve validatörler için kanıtlar üreterek parçaları korurlar.</target>
+      </trans-unit>
+      <trans-unit id="79100" identifier="3a8d243e018818e45b38f9d498811fba">
+        <source>Nominators</source>
+        <target state="translated">Atayıcılar</target>
+      </trans-unit>
+      <trans-unit id="79102" identifier="f4e4525106d566e88a8d6e6687cb43da">
+        <source>Secure the Relay Chain by selecting trustworthy validators and staking DOTs.</source>
+        <target state="translated">Güvenilir validatörleri seçerek ve DOT'ları stake ederek Relay Chain'i güvence altına alırlar.</target>
+      </trans-unit>
+      <trans-unit id="79104" identifier="314becc10d33a15de9af553ef5523516">
+        <source>Fishermen</source>
+        <target state="translated">Balıkçılar</target>
+      </trans-unit>
+      <trans-unit id="79106" identifier="bf098adf8665156b12b4798017f9faf4">
+        <source>Monitor the network and report bad behavior to validators.</source>
+        <target state="translated">Ağı izleyerek ve kötü davranışları validatörlere bildirirler.</target>
+      </trans-unit>
+      <trans-unit id="79108" identifier="a05c5f5690a0ffbb6e718094f0837a82">
+        <source>Collators and any parachain full node can perform the fisherman role.</source>
+        <target state="translated">Düzenleyiciler veya herhangi bir parachain'in tam düğümü, balıkçı rolünü yerine getirebilir.</target>
+      </trans-unit>
+      <trans-unit id="79110" identifier="9aab51ce90f9227a2fb3100cc3ad6b07">
+        <source>Polkadot Governance Roles</source>
+        <target state="translated">Polkadot Yönetişim Rolleri</target>
+      </trans-unit>
+      <trans-unit id="79112" identifier="3cee82f7cf3868a5eba34f1de0459be4">
+        <source>Council Members</source>
+        <target state="translated">Konsey Üyeleri</target>
+      </trans-unit>
+      <trans-unit id="79114" identifier="0fbf2ef1ad8b04747287fde62cfa01b4">
+        <source>Elected to represent passive stakeholders in two primary governance roles: proposing referenda and vetoing dangerous or malicious referenda.</source>
+        <target state="translated">Referandum önermek ve zararlı veya kötü niyetli referandumları veto etmek gibi, pasif paydaşları iki temel yönetişim rolünde temsil etmek amacıyla seçilirler.</target>
+      </trans-unit>
+      <trans-unit id="79116" identifier="dffcc088c2591c4248107df19343df31">
+        <source>Technical Committee</source>
+        <target state="translated">Teknik Komite</target>
+      </trans-unit>
+      <trans-unit id="79118" identifier="dde3f28e1595f05106d48654a092b612">
+        <source>Composed of teams actively building</source>
+        <target state="translated">Polkadot'ta aktif olarak geliştirme yapan ekiplerden oluşur</target>
+      </trans-unit>
+      <trans-unit id="79120" identifier="999cd9ac09c4b106e12dc7c031e168b6">
+        <source>Polkadot.</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="79122" identifier="de2fe1c3ee86b46c25dac2525a26c24f">
+        <source>Can propose emergency</source>
+        <target state="translated">Konsey ile birlikte acil durum</target>
+      </trans-unit>
+      <trans-unit id="79124" identifier="40af7142eed22d9c124fe2e9a41b4cba">
+        <source>referenda, together with the council,</source>
+        <target state="translated">referandumu önerebilir, oylama işlemi</target>
+      </trans-unit>
+      <trans-unit id="79126" identifier="ee7be10f2af17d6160c0282d939da70f">
+        <source>for fast-tracked voting and implementation.</source>
+        <target state="translated">hızlı bir şekilde gerçekleştirilir ve yürürlüğe koyulur.</target>
+      </trans-unit>
+      <trans-unit id="79128" identifier="7bef0f8bd0689159acd51e2e3c8b9897">
+        <source>DOTs</source>
+        <target state="translated">DOT'lar</target>
+      </trans-unit>
+      <trans-unit id="79130" identifier="b00dc3ecb8d1941be6a819b061fc78e7" translate="no">
+        <source>11</source>
+        <target>11</target>
+      </trans-unit>
+      <trans-unit id="79132" identifier="af370a6da173e87d3de92dd22e6ad084">
+        <source>The DOT Token</source>
+        <target state="translated">DOT Token</target>
+      </trans-unit>
+      <trans-unit id="79134" identifier="1acd053d966df3b01f2b40f02d834db4">
+        <source>The DOT token serves three</source>
+        <target state="translated">DOT tokenın üç</target>
+      </trans-unit>
+      <trans-unit id="79136" identifier="a6c1614869edc624b6e3adf7a0f06431">
+        <source>distinct purposes: governance</source>
+        <target state="translated">farklı amacı vardır:</target>
+      </trans-unit>
+      <trans-unit id="79138" identifier="b4a0a5c95ee3e1fb11e405e1c8ce3b00">
+        <source>over the network, operation and</source>
+        <target state="translated">ağ yönetişimi, operasyon</target>
+      </trans-unit>
+      <trans-unit id="79140" identifier="f69c20d610c72ed37c7254dd8197d657">
+        <source>bonding.</source>
+        <target state="translated">ve birleştirme.</target>
+      </trans-unit>
+      <trans-unit id="79142" identifier="d845eb5a32874898c75c0c004951dc34">
+        <source>Governance</source>
+        <target state="translated">Yönetişim</target>
+      </trans-unit>
+      <trans-unit id="79144" identifier="6f87d6282e53f54d10f43c471090b5ba">
+        <source>Polkadot token holders have complete control over the protocol.</source>
+        <target state="translated">Polkadot token sahipleri protokol üzerinde tam kontrole sahiptir.</target>
+      </trans-unit>
+      <trans-unit id="79146" identifier="45db4df994a0caa71ec07a38da75e413">
+        <source>All privileges, which on other platforms are exclusive to miners, will be given to the Relay Chain participants (DOT holders), including managing exceptional events such as protocol upgrades and fixes.</source>
+        <target state="translated">Diğer platformlarda protokol yükseltmeleri ve düzeltmeler gibi istisnai olayların yönetilmesi gibi madencilere özel olan tüm ayrıcalıklar, Relay Chain katılımcılarına (DOT sahiplerine) verilecektir.</target>
+      </trans-unit>
+      <trans-unit id="79148" identifier="e829dc1c148da5c2de3c3d25d34038fe">
+        <source>Operation</source>
+        <target state="translated">Operasyon</target>
+      </trans-unit>
+      <trans-unit id="79150" identifier="ca819ffe931df3f29587beb964556ac5">
+        <source>Game theory incentivizes token holders to behave in honest ways.</source>
+        <target state="translated">Oyun teorisi, token sahiplerini dürüst bir şekilde davranmaya teşvik eder.</target>
+      </trans-unit>
+      <trans-unit id="79152" identifier="29786b9f2d20384c6b807328216a28da">
+        <source>Good actors are rewarded by this mechanism whilst bad actors will lose their stake in the network.</source>
+        <target state="translated">İyi oyuncular bu mekanizma tarafından ödüllendirilirken, kötü oyuncular ağdaki paylarını kaybedeceklerdir.</target>
+      </trans-unit>
+      <trans-unit id="79154" identifier="b12bc6ab50eeba8f1e6b9f4be574be6b">
+        <source>This ensures the network stays secure.</source>
+        <target state="translated">Böylece, ağın güvenli kalması sağlanır.</target>
+      </trans-unit>
+      <trans-unit id="79156" identifier="da05a6939e2cbd0e8f3a9fa18872f2aa">
+        <source>Bonding</source>
+        <target state="translated">Bağlama</target>
+      </trans-unit>
+      <trans-unit id="79158" identifier="04e72fdac6e7fcb79d88d431deb34f88">
+        <source>New parachains are added by bonding tokens.</source>
+        <target state="translated">Yeni parachainler, bağlama tokenları ile eklenirler.</target>
+      </trans-unit>
+      <trans-unit id="79160" identifier="c50e7548b3434d4dafed1e4ef0b76946">
+        <source>Outdated or non-useful parachains are removed by removing bonded tokens.</source>
+        <target state="translated">Eski veya kullanışsız parachainler, bağlama tokenları kaldırılarak kaldırılır.</target>
+      </trans-unit>
+      <trans-unit id="79162" identifier="7dfed5ab38a2ad0e0c3031181ce26d11">
+        <source>This is a form of proof of stake.</source>
+        <target state="translated">Bu, hisse kanıtının (proof of stake) bir türüdür.</target>
+      </trans-unit>
+      <trans-unit id="79164" identifier="e4daed412846c1f5e003f872de9e31da">
+        <source>Play with chaos on Kusama, Polkadot’s wild cousin</source>
+        <target state="translated">Polkadot’un vahşi kuzeni Kusama’da kaosla oynayın</target>
+      </trans-unit>
+      <trans-unit id="79166" identifier="81b1142905da2fe614b8c2c44bc666ad">
+        <source>Kusama Network</source>
+        <target state="translated">Kusama Network</target>
+      </trans-unit>
+      <trans-unit id="79168" identifier="a7672f0250a7b309b9f050f9d503d12a" translate="no">
+        <source>12</source>
+        <target>12</target>
+      </trans-unit>
+      <trans-unit id="79170" identifier="1995fce4b40819a02c71fb25e7a59fa0">
+        <source>Kusama is an early, unaudited and unrefined release of Polkadot created to test the network’s technology and economic incentives in a real-world environment.</source>
+        <target state="translated">Kusama, ağın teknolojisini ve ekonomik teşviklerini gerçek dünya ortamında test etmek için oluşturulmuş Polkadot'un erken, denetlenmemiş ve rafine edilmemiş bir sürümüdür.</target>
+      </trans-unit>
+      <trans-unit id="79172" identifier="5a08c997cabae7169256a8353f60c4ba">
+        <source>It’s also the perfect place for parachain developers to test ideas before deploying to Polkadot.</source>
+        <target state="translated">Ayrıca, parachain geliştiricilerinin zincirlerini Polkadot'a aktarmadan önce fikirleri test etmeleri için mükemmel bir yerdir.</target>
+      </trans-unit>
+      <trans-unit id="79174" identifier="5724d06e29b8d7b12e5e53c06ba59133">
+        <source>Kusama is owned and governed by a community of supporters who hold KSM tokens.</source>
+        <target state="translated">Kusama, KSM token'larına sahip topluluğa aittir ve bu topluluk tarafından yönetilmektedir.</target>
+      </trans-unit>
+      <trans-unit id="79176" identifier="44b21fc916b272e37c455bb5522a0bd1">
+        <source>There is no central kill switch, meaning it will live on as an independent community network.</source>
+        <target state="translated">Merkezi bir kill switch (kapatma düğmesi) yoktur, yani bağımsız bir topluluk ağı olarak yaşayacaktır.</target>
+      </trans-unit>
+      <trans-unit id="79178" identifier="0b2750ff5b3790b08ecd5130261734b7">
+        <source>Ready to break stuff?</source>
+        <target state="translated">Bir şeyleri kırmaya hazır mısın?</target>
+      </trans-unit>
+      <trans-unit id="79180" identifier="2fcb82ed728c5b2dba794e64db1784fb">
+        <source>Find out how to get KSM tokens and start staking, validating and participating in governance by reading the user guide.</source>
+        <target state="translated">Kullanıcı kılavuzunu okuyarak KSM tokenlarını nasıl edineceğinizi ve stake edebileceğinizi, doğrulama süreçleri ve yönetişime katılmaya nasıl başlayacağınızı öğrenin.</target>
+      </trans-unit>
+      <trans-unit id="79182" identifier="ceee1e190cd6136a7fcd274e0d7d6129">
+        <source>Substrate</source>
+        <target state="translated">Substrate</target>
+      </trans-unit>
+      <trans-unit id="79184" identifier="41f440c938be72aba14496bb45e31009" translate="no">
+        <source>13</source>
+        <target>13</target>
+      </trans-unit>
+      <trans-unit id="79186" identifier="42ec0640289a20adfe3304c5c28cdc94">
+        <source>Your blockchain builder, Your blockchain upgrader,</source>
+        <target state="translated">Sizin blokzinciriniz, Sizin blokzincir oluşturucunuz,</target>
+      </trans-unit>
+      <trans-unit id="79188" identifier="71f3c21bcceaddbc83d82e20cca77c64">
+        <source>Your blockchain.</source>
+        <target state="translated">Sizin blokzincir geliştiriciniz.</target>
+      </trans-unit>
+      <trans-unit id="79190" identifier="8a3c8370d2d0f5ac220c9698ac715283">
+        <source>Substrate is your blockchain-building framework, making it easy to create a custom blockchain optimized for your unique use case.</source>
+        <target state="translated">Substrate, benzersiz kullanım senaryonuz için optimize edilmiş özel bir blokzincir oluşturmayı kolaylaştıran bir frameworktür.</target>
+      </trans-unit>
+      <trans-unit id="79192" identifier="4acbc865e990d5191ff394bbdfd1ae3a">
+        <source>Substrate is fully modular and flexible: mix and match ready-made components and build out your core business logic while leaving the rest to the framework.</source>
+        <target state="translated">Alt yapısı tamamen modüler ve esnek olan Substrate'in hazır bileşenlerini karıştırın ve eşleştirin ve geri kalanını frameworke bırakırken temel iş mantığınızı oluşturun.</target>
+      </trans-unit>
+      <trans-unit id="79194" identifier="605de90b12418395b832477a6a37704a">
+        <source>Plug-and-play modules like consensus, networking and finality give you the freedom to focus on your specific area of expertise, saving you substantial time and effort in the development process.</source>
+        <target state="translated">Mutabakat, ağ oluşturma ve kesinlik gibi tak ve çalıştır modülleri, size özel uzmanlık alanınıza odaklanma özgürlüğü vererek geliştirme sürecinde önemli ölçüde zaman ve çaba tasarrufu sağlar.</target>
+      </trans-unit>
+      <trans-unit id="79196" identifier="0efa07844944c44338ba0f73b3a20bb2">
+        <source>Keep things lean by implementing only the necessary functionality on your custom blockchain.</source>
+        <target state="translated">Özel blokzincirinizde yalnızca gerekli işlevselliği koruyarak işlerinizi yalın tutun.</target>
+      </trans-unit>
+      <trans-unit id="79198" identifier="7eacca3e3314f6e01902d2817639d67b">
+        <source>Thanks to Substrate’s forkless upgrades and transparent governance tools, you can add new features over time without fear of splitting the network.</source>
+        <target state="translated">Substrate’in çatallanma gerektirmeyen güncellemeleri ve şeffaf yönetim araçları sayesinde, zaman içinde ağı bölme korkusu olmadan yeni özellikler ekleyebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="79200" identifier="b77995ac2769f410d525eec320ae8101">
+        <source>Easier, risk-free upgrading means your blockchain can grow and evolve with the pace of innovation and ever-changing market needs.</source>
+        <target state="translated">Daha kolay, risksiz güncelleme, blokzincirinizin inovasyon hızı ve sürekli değişen pazar ihtiyaçları ile büyüyüp gelişebileceği anlamına gelir.</target>
+      </trans-unit>
+      <trans-unit id="79202" identifier="42de9aabeae870ca4fd4f2c21f3abbbb">
+        <source>Substrate also comes with native support for connecting to Polkadot right out of the box.</source>
+        <target state="translated">Ayrıca Substrate, Polkadot'a bağlanmak için yerel destekle birlikte gelir.</target>
+      </trans-unit>
+      <trans-unit id="79204" identifier="7e04101963018d3ee4619235a2af22a5">
+        <source>Cumulus, Substrate’s tool for connecting your blockchain to a network of blockchains, unlocks interchain communication, collaboration and shared security.</source>
+        <target state="translated">Substrate'in blokzincirinizi bir blokzincir ağına bağlamanız için gerekli bir araç olan Cumulus, zincirler arası iletişimin, işbirliğinin ve paylaşımlı güvenliğin kilidini açar.</target>
+      </trans-unit>
+      <trans-unit id="79206" identifier="e559da7407664094ad892e68505f24e9">
+        <source>Learn more about Substrate here and at the Substrate Developer Hub.</source>
+        <target state="translated">Substrate hakkında daha fazla bilgiyi burada ve Substrate Developer Hub'da bulabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="79208" identifier="3d6376e5d719d1c269a048fa3306f985">
+        <source>About Web3 Foundation</source>
+        <target state="translated">Web3 Foundation Hakkında</target>
+      </trans-unit>
+      <trans-unit id="79210" identifier="107d8263b08ed2d22f4774c15c297c95" translate="no">
+        <source>14</source>
+        <target>14</target>
+      </trans-unit>
+      <trans-unit id="79212" identifier="097b51406e1188898111ba6989ee3e0f">
+        <source>Web3</source>
+        <target state="translated">Web3</target>
+      </trans-unit>
+      <trans-unit id="79214" identifier="7e04d2a4ebd682a88b4070bb093057bd">
+        <source>Foundation</source>
+        <target state="translated">Foundation</target>
+      </trans-unit>
+      <trans-unit id="79216" identifier="a9e93c7fbcba195d510d0620ddb6a561">
+        <source>Web3 Foundation was created to nurture and steward technologies and applications in the fields of decentralized web software protocols, particularly those that utilize modern cryptographic methods to safeguard decentralization, to the benefit</source>
+        <target state="translated">Web3 Foundation, Web3 ekosistemi olarak tanımlanan merkezi olmayan web yazılım protokolleri alanındaki teknolojilere, uygulamalara, özellikle de ademi merkeziyetçiliği korumak için modern kriptografik yöntemleri kullananlara</target>
+      </trans-unit>
+      <trans-unit id="79218" identifier="1e0faacf86b30a2e60250f9fa8cdd7ef">
+        <source>and for the stability of the Web3 ecosystem.</source>
+        <target state="translated">fayda sağlamak, desteklemek ve yönetmek için kuruldu.</target>
+      </trans-unit>
+      <trans-unit id="79220" identifier="06d8587cbc0a9c6d097b4a0643be070f">
+        <source>Polkadot is the flagship protocol of Web3 Foundation.</source>
+        <target state="translated">Polkadot, Web3 Foundation'ın amiral gemisi protokolüdür.</target>
+      </trans-unit>
+      <trans-unit id="79222" identifier="794d5ec5b3194ba94e7bf50d139f8c5b">
+        <source>The future of the foundation</source>
+        <target state="translated">Vakfın geleceği</target>
+      </trans-unit>
+      <trans-unit id="79224" identifier="996b52bf9aa59c6ca3b32bea51c80ff5">
+        <source>Web3 Foundation seeks to fund or otherwise assist in the development and deployment of projects aligned with its mission:</source>
+        <target state="translated">Web3 Foundation, misyonuyla uyumlu projelerin geliştirilmesi ve yayınlanması için fon sağlama veya başka şekillerde yardımcı olmayı amaçlamaktadır:</target>
+      </trans-unit>
+      <trans-unit id="79226" identifier="25b9d30ca95f9d482da8cea5d053df4a">
+        <source>Innovative blockchain technologies, cryptographic messaging protocols.</source>
+        <target state="translated">Yenilikçi blokzincir teknolojileri, kriptografik mesajlaşma protokolleri.</target>
+      </trans-unit>
+      <trans-unit id="79228" identifier="2c13b54d4483646d4533a03bf0898ab7">
+        <source>Peer-to-peer networking infrastructure (such as libp2p and devp2p)</source>
+        <target state="translated">Eşler arası ağ altyapısı (libp2p ve devp2p gibi)</target>
+      </trans-unit>
+      <trans-unit id="79230" identifier="9df01193f923a531a8f9e58336ea406f">
+        <source>Crypto-economic mechanisms (such as DAC/DAOsoftware)</source>
+        <target state="translated">Kripto-ekonomik mekanizmalar (DAC / DAO'lar gibi)</target>
+      </trans-unit>
+      <trans-unit id="79232" identifier="44da4ca8a32a8bf108e09919867866cb">
+        <source>Data publication systems</source>
+        <target state="translated">Veri iletimi ve dağıtımı sistemleri</target>
+      </trans-unit>
+      <trans-unit id="79234" identifier="1da7ddd22079ab8f2e873aad52a2e06e">
+        <source>(such as IPFS).</source>
+        <target state="translated">(IPFS gibi).</target>
+      </trans-unit>
+      <trans-unit id="79236" identifier="909340b57ce2526669e10460981a46fe">
+        <source>&lt;g id=&quot;1&quot;&gt;Learn more at&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;web3.foundation&lt;/g&gt; and on&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Twitter&lt;/g&gt;&lt;g id=&quot;6&quot;&gt; &lt;/g&gt;and&lt;g id=&quot;7&quot;&gt; &lt;/g&gt;&lt;g id=&quot;8&quot;&gt;YouTube&lt;/g&gt;.&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Daha fazla bilgi edinmek için&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;web3.foundation&lt;/g&gt;,&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Twitter&lt;/g&gt;&lt;g id=&quot;6&quot;&gt; &lt;/g&gt;ve&lt;g id=&quot;7&quot;&gt; &lt;/g&gt;&lt;g id=&quot;8&quot;&gt;YouTube'u&lt;/g&gt;ziyaret edebilirsiniz.&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79238" identifier="9ef689d9d0368d4cfdfc2a9f2a53323c">
+        <source>The</source>
+        <target state="translated"> </target>
+      </trans-unit>
+      <trans-unit id="79240" identifier="b3a213682c2193f74f3c9de993855878">
+        <source>development</source>
+        <target state="translated">Geliştirici</target>
+      </trans-unit>
+      <trans-unit id="79242" identifier="f8e11323177f34b6df23252bcc2945c4">
+        <source>team</source>
+        <target state="translated">Ekip</target>
+      </trans-unit>
+      <trans-unit id="79244" identifier="e48f37a408caff89bb07034928641c5d">
+        <source>About Parity</source>
+        <target state="translated">Parity Hakkında</target>
+      </trans-unit>
+      <trans-unit id="79246" identifier="49ba6094303ec67a4dd2588610690014" translate="no">
+        <source>15</source>
+        <target>15</target>
+      </trans-unit>
+      <trans-unit id="79248" identifier="23f65058980b3123f3f631c419e85fb2">
+        <source>Web3 Foundation has commissioned Parity Technologies to build Polkadot.</source>
+        <target state="translated">Web3 Foundation, Polkadot'u geliştirmek için Parity Technologies'i görevlendirdi.</target>
+      </trans-unit>
+      <trans-unit id="79250" identifier="d7db3e6f6ee3901470f7d7def400de80">
+        <source>Founded by Ethereum cofounder</source>
+        <target state="translated">Ethereum kurucu ortağı tarafından kuruldu</target>
+      </trans-unit>
+      <trans-unit id="79252" identifier="1f93597b2af27f84c3c5456740182bcd">
+        <source>Dr. Gavin Wood, Parity is a global team of top distributed systems engineers, cryptographers, solutions architects and researchers.</source>
+        <target state="translated">Dr. Gavin Wood, Parity, en iyi dağıtık sistem mühendisleri, kriptograflar, çözüm mimarları ve araştırmacılardan oluşan küresel bir ekiptir.</target>
+      </trans-unit>
+      <trans-unit id="79254" identifier="e330c9537055cf6bd1fea9ebd04b889e">
+        <source>Parity has fundamentally shaped the blockchain industry, from building the highly-adopted Parity Ethereum client and implementations of Bitcoin and Zcash, to developing the next generation of blockchain technology with Substrate and Polkadot.</source>
+        <target state="translated">Parity, son derece benimsenen Parity Ethereum istemcisi, Bitcoin ve Zcash uygulamalarından sonra Substrate ve Polkadot gibi yeni nesil blokzincir teknolojilerini geliştirmiş ve blokzincir endüstrisini temelden şekillendiren işlere imza atmıştır.</target>
+      </trans-unit>
+      <trans-unit id="79256" identifier="ded8a332e461e0fa74f6c116832f3237">
+        <source>&lt;g id=&quot;1&quot;&gt;Learn more about Parity Technologies at&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;parity.io&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;and follow the team on&lt;g id=&quot;5&quot;&gt; &lt;/g&gt;&lt;g id=&quot;6&quot;&gt;Twitter&lt;/g&gt;,&lt;g id=&quot;7&quot;&gt; &lt;/g&gt;&lt;g id=&quot;8&quot;&gt;Telegram&lt;/g&gt;,&lt;g id=&quot;9&quot;&gt; &lt;/g&gt;&lt;g id=&quot;10&quot;&gt;YouTube&lt;/g&gt;, and&lt;g id=&quot;11&quot;&gt; &lt;/g&gt;&lt;g id=&quot;12&quot;&gt;Riot&lt;/g&gt;.&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Parity Technologies hakkında daha fazla bilgi edinmek için&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;parity.io adresini ziyaret edebilir&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;ve ekibi&lt;g id=&quot;5&quot;&gt; &lt;/g&gt;&lt;g id=&quot;6&quot;&gt;Twitter&lt;/g&gt;,&lt;g id=&quot;7&quot;&gt; &lt;/g&gt;&lt;g id=&quot;8&quot;&gt;Telegram&lt;/g&gt;,&lt;g id=&quot;9&quot;&gt; &lt;/g&gt;&lt;g id=&quot;10&quot;&gt;YouTube&lt;/g&gt;, ve&lt;g id=&quot;11&quot;&gt; &lt;/g&gt;&lt;g id=&quot;12&quot;&gt;Riot&lt;/g&gt; üzerinden takip edebilirsiniz.&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79258" identifier="46ef90423e0f82d4b9e877afb4e1959c">
+        <source>Friends of</source>
+        <target state="translated">Polkadot</target>
+      </trans-unit>
+      <trans-unit id="79260" identifier="53c31a9b476f064357c333dba77fda55">
+        <source>Polkadot</source>
+        <target state="translated">&amp; Substrate</target>
+      </trans-unit>
+      <trans-unit id="79262" identifier="9ed6ddebf0ebb3f56132519d562e48ce">
+        <source>&amp; Substrate</source>
+        <target state="translated">İş Birlikleri</target>
+      </trans-unit>
+      <trans-unit id="79264" identifier="aa0314397975e96fd30ed212411bacdb">
+        <source>Collaborations</source>
+        <target state="translated">İş Birlikleri</target>
+      </trans-unit>
+      <trans-unit id="79266" identifier="dd80ac76f524f05f442c33789ca0bde2" translate="no">
+        <source>16</source>
+        <target>16</target>
+      </trans-unit>
+      <trans-unit id="79268" identifier="006cd68f1df8b15816019980a474843b">
+        <source>Polkadot is designed to work with public, private and enterprise chains.</source>
+        <target state="translated">Polkadot, kamu, özel ve kurumsal zincirlerle çalışmak üzere tasarlanmıştır.</target>
+      </trans-unit>
+      <trans-unit id="79270" identifier="c1e23285417d5e6c2e957ded7cd1ad54">
+        <source>We are excited to work closely with the following partners to develop the first use cases, and look forward to collaborating with other blockchain projects seeking to adopt this technology:</source>
+        <target state="translated">İlk yaygın kullanım senaryolarını geliştirmek için aşağıdaki ortaklarla yakın bir şekilde çalışmaktan heyecan duyuyoruz ve bu teknolojiyi benimsemek isteyen diğer blokzincir projeleriyle iş birliği yapmayı dört gözle bekliyoruz:</target>
+      </trans-unit>
+      <trans-unit id="79272" identifier="c1a8105f282c73a4c347fbe2162ca805" translate="no">
+        <source>17</source>
+        <target>17</target>
+      </trans-unit>
+      <trans-unit id="79274" identifier="c70f285eb98e44120cf17e482430f247">
+        <source>Dive deeper, stay connected and get building!</source>
+        <target state="translated">Daha derine dalın, bağlantıda kalın ve geleceği inşa etmeye başlayın!</target>
+      </trans-unit>
+      <trans-unit id="79276" identifier="b2f183b58724f389a5fa1a58f2b89fb9">
+        <source>Learn more on the</source>
+        <target state="translated">Daha fazla bilgi edinmek için</target>
+      </trans-unit>
+      <trans-unit id="79278" identifier="b697d866d028890ece61b5b6dd11b303">
+        <source>&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;Join&lt;/g&gt;&lt;g id=&quot;3&quot;&gt; &lt;/g&gt;&lt;g id=&quot;4&quot;&gt;or&lt;g id=&quot;5&quot;&gt; &lt;/g&gt;&lt;g id=&quot;6&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;7&quot;&gt;host&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;Katılın&lt;/g&gt;&lt;g id=&quot;3&quot;&gt; &lt;/g&gt;&lt;g id=&quot;4&quot;&gt;veya&lt;g id=&quot;5&quot;&gt; &lt;/g&gt;&lt;g id=&quot;6&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;7&quot;&gt;organize edin&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79280" identifier="fb3ecb1ebaa5487574d0578a0cf2b634">
+        <source>&lt;g id=&quot;1&quot;&gt;Polkadot&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Website&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Polkadot&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Websitesi&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79282" identifier="89204602d59ff4faaad2ed43b225248b">
+        <source>a Polkadot meetup</source>
+        <target state="translated">bir Polkadot etkinliği</target>
+      </trans-unit>
+      <trans-unit id="79284" identifier="5be8255d353112b4f89f88118c8e1e7f">
+        <source>&lt;g id=&quot;1&quot;&gt;and&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Wiki&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;ve&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Wiki&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79286" identifier="b3ffad7650f08862fcaad4e1697c3193">
+        <source>in your area</source>
+        <target state="translated">bölgenizde</target>
+      </trans-unit>
+      <trans-unit id="79288" identifier="c647749b96f97fbbe4bd00b894819079">
+        <source>Subscribe to the Polkadot</source>
+        <target state="translated">Polkadot'a abone olun</target>
+      </trans-unit>
+      <trans-unit id="79290" identifier="9f58fb398ac2f26f93cae250306c6c18">
+        <source>Chat with the Polkadot team</source>
+        <target state="translated">Polkadot ekibiyle sohbet edin</target>
+      </trans-unit>
+      <trans-unit id="79292" identifier="1c129bba446702546a8821d008dc7d9c">
+        <source>&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;Newsletter&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;bültenine&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79294" identifier="42c4aac707d5a9b95b340bcdb66ffd3d">
+        <source>&lt;g id=&quot;1&quot;&gt;on&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Riot&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;ile&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;Riot&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79296" identifier="744c3d2a6d78bc640703f76ad8f638f7">
+        <source>&lt;g id=&quot;1&quot;&gt;Get involved by&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;joining&lt;/g&gt;&lt;g id=&quot;6&quot;&gt; &lt;/g&gt;the&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;Etkileşime geçin&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;→&lt;/g&gt;&lt;g id=&quot;4&quot;&gt; &lt;/g&gt;&lt;g id=&quot;5&quot;&gt;katılarak&lt;/g&gt;&lt;g id=&quot;6&quot;&gt; &lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79298" identifier="f8403a5949689ccb9955dc22bfd78406">
+        <source>Additional resources</source>
+        <target state="translated">Ek kaynaklar</target>
+      </trans-unit>
+      <trans-unit id="79300" identifier="d26bb675e5e7919b5baf9e60972cf4dd">
+        <source>&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;Polkadot Ambassador&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;→ &lt;/g&gt;&lt;g id=&quot;2&quot;&gt;Polkadot Temsilcilik&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79302" identifier="86c9af896931f33c291863b60bc062b5">
+        <source>can be found</source>
+        <target state="translated">bulabilirsiniz</target>
+      </trans-unit>
+      <trans-unit id="79304" identifier="90c1f2f92de05baa5fce0ae5b3e39633">
+        <source>Program</source>
+        <target state="translated">Programına</target>
+      </trans-unit>
+      <trans-unit id="79306" identifier="73d41175a785af1343b46daa430f1c7b">
+        <source>&lt;g id=&quot;1&quot;&gt;→&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;here&lt;/g&gt;&lt;/g&gt;</source>
+        <target state="translated">&lt;g id=&quot;1&quot;&gt;→&lt;g id=&quot;2&quot;&gt; &lt;/g&gt;&lt;g id=&quot;3&quot;&gt;buradan&lt;/g&gt;&lt;/g&gt;</target>
+      </trans-unit>
+      <trans-unit id="79308" identifier="d074cb5558142c65d85ec0a50e127dba">
+        <source>Follow Polkadot on:</source>
+        <target state="translated">Polkadot'u takip edin:</target>
+      </trans-unit>
+      <trans-unit id="79310" identifier="6680e74775e74f81f861b0bb1dc55549">
+        <source>hello@web3.foundation&lt;x id=&quot;2&quot;/&gt;20-12-2019&lt;x id=&quot;3&quot;/&gt;version: 3</source>
+        <target state="translated">hello@web3.foundation&lt;x id=&quot;2&quot;/&gt;20-12-2019&lt;x id=&quot;3&quot;/&gt;version: 3</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
